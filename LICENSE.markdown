@@ -5,7 +5,7 @@ Terms
 -----
 - **You**: The Licensee
 - **License**: This Agreement
-- **License Fee**: A periodic fee.
+- **License Fee**: A periodic fee which extends the License period.
 - **Copyright Holder**: Neville Burnell
 - **Software**: The Concierge Software, Manuals and Media
 
@@ -21,7 +21,7 @@ If you do not agree with the terms, DO NOT INSTALL THE SOFTWARE.
 
 4. This software at all times remains the property of the **Copyright Holder** and is protected by Australian copyright laws, international treaty provisions and all other applicable national laws. You may not duplicate this CD, or its contents in part or whole, or duplicate the product documentation or manuals accompanying the software.
 
-5. If the software is upgraded, replaced or modified, you may use that upgraded or modified product in accordance with this license and further references to the software shall include such modifications.
+5. If the software is upgraded, replaced or modified, you may use that upgraded or modified product in accordance with this **License** and further references to the software shall include such modifications.
 
 6. This agreement is governed by the laws of Victoria, Australia. Any question regarding this agreement should be directed to the **Copyright Holder**.
 
