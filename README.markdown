@@ -1,15 +1,19 @@
 Concierge
 =========
 
+License
+-------
+Refer to LICENSE.markdown
+
+Copyright
+---------
+Refer to COPYRIGHT.markdown
+
 Technology
 ----------
 - database, search = Solr server or embedded?
 - sessionless, http basic auth over SSL
 - ruby + rack + sinatra
-
-Copyright
----------
-Copyright Neville Burnell. All Rights Reserved.
 
 Links
 -----
@@ -20,3 +24,5 @@ Links
 [1]:http://people.apache.org/builds/lucene/solr/nightly/
 [2]:http://daringfireball.net/projects/markdown/
 [3]:http://attacklab.net/showdown/
+
+Copyright 2009 Neville Burnell. All Rights Reserved.
