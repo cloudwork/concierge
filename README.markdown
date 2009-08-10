@@ -1,0 +1,18 @@
+Concierge
+=========
+
+Technology
+----------
+- database, search = Solr server or embedded?
+- sessionless, http basic auth over SSL
+- ruby + rack + sinatra
+
+Links
+-----
+- [solr nightly builds][1]
+- [Markdown Reference][2]
+- [Showdown javascript markdown processor][3]
+
+[1]:http://people.apache.org/builds/lucene/solr/nightly/
+[2]:http://daringfireball.net/projects/markdown/
+[3]:http://attacklab.net/showdown/
