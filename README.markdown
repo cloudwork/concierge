@@ -7,6 +7,10 @@ Technology
 - sessionless, http basic auth over SSL
 - ruby + rack + sinatra
 
+Copyright
+---------
+Copyright Neville Burnell. All Rights Reserved.
+
 Links
 -----
 - [solr nightly builds][1]
