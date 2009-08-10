@@ -11,9 +11,7 @@ Terms
 
 Agreement
 ---------
-1. This is a legal agreement between **You** and the **Copyright Holder**.
-By installing this software you agree to be bound by the terms of this agreement.
-If you do not agree with the terms, DO NOT INSTALL THE SOFTWARE.
+1. This is a legal agreement between **You** and the **Copyright Holder**. By installing this software you agree to be bound by the terms of this agreement. If you do not agree with the terms, DO NOT INSTALL THE SOFTWARE.
 
 2. In return for the **License Fee**, the **Copyright Holder** permits you to install the **Software** on one computer.
 
